@@ -1,0 +1,1 @@
+import{r as e}from"./framework-D_rUT4EX.js";var t=e();function n(){return(0,t.jsx)(`button`,{className:`text-link print-link`,onClick:()=>window.print(),style:{background:`none`,color:`inherit`,borderTop:0,borderLeft:0,borderRight:0},children:`Print / save as PDF ↗`})}export{n as PrintProfile};
