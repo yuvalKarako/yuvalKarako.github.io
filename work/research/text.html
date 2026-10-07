@@ -1,0 +1,118 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Research — text</title><style>body{margin:0;background:#0a0c10;color:#e9ebef;font:15px/1.7 ui-monospace,Menlo,Consolas,monospace}pre{white-space:pre-wrap;max-width:76ch;margin:48px auto;padding:0 20px}</style></head><body><pre># Research
+
+AI that explains why a reef is changing.
+
+My M.Sc. thesis builds an AI system that goes past labeling underwater images. It measures each coral, follows it over time, and when it finds damage, proposes likely causes based on 845 scientific papers. Most existing tools stop at the labeling step. Around it: a BIU AI Convergence grant with Prof. Carmit Altman, a systematic review, and a collaboration with the Technion.
+
+Context: M.Sc. Biotechnology · Marine Ecosystem Dynamics Lab (Dr. Gal Eyal) · Bar-Ilan University
+
+Status: FIVE RESEARCH LINES · THESIS IN EVALUATION
+
+## From detection to diagnosis: AI for coral reef decline
+
+M.SC. THESIS · WORKING PROTOTYPE · EVALUATION UNDER WAY
+
+An AI system that measures every coral in underwater images, follows each colony over time, and proposes likely causes when it finds damage.
+
+- Lab: Marine Ecosystem Dynamics Lab, Bar-Ilan University
+- Advisor: Dr. Gal Eyal
+- Case study: Coral reef degradation in the Gulf of Eilat
+
+### The problem
+
+Coral reefs are monitored mostly by photographing them and labeling what is in the photos by hand. That is slow, and it only answers what is there. The people responsible for a reef also need to know why it is degrading, and they need to know early.
+
+### What I built
+
+A system in three layers. Perception: measure every organism in an image, calibrated to real surface area. Demography: identify each colony and follow it from one survey to the next. Etiology: an AI agent that proposes likely causes for the damage it sees, citing the literature it relies on, a corpus of 845 papers and 8,359 indexed passages.
+
+### What is not proven yet
+
+The first two layers work as a proof of concept. The third shows that the architecture is feasible, but its accuracy has not been measured yet; that evaluation is the next year of the thesis. A plausible explanation is not necessarily a correct one, so the rate at which the agent invents causes will be reported as a primary metric.
+
+## Coherence to meaning: recovering structured meaning from imprecise descriptions
+
+BIU AI CONVERGENCE SEED GRANT · 2026–27 · AWARDED · WORK BEGAN OCTOBER 2026
+
+People describe what they see in imprecise words. This project teaches a model to recover the structure behind those words, first in children’s narratives, then in divers’ reports of reef damage.
+
+- Principal investigators: Prof. Carmit Altman (Child Language and Narrative Lab, Faculty of Education) and Dr. Gal Eyal (Marine Ecosystem Dynamics Lab, Faculty of Life Sciences)
+- My role: AI research lead: I design and build the model and connect it to the reef diagnosis system
+- Partners: Bar-Ilan Data Science and AI Institute (DSAI), methodological and engineering partner
+
+### The idea
+
+Two labs that look unrelated face the same problem from opposite ends. Prof. Altman’s lab has spent two decades studying how children build coherent stories: who is involved, what happened, and why. Reef monitoring increasingly depends on non-expert observers such as divers and citizen scientists, whose reports are just as imprecise. In both cases the scientific value lies in the structure behind the words, and neither field has a model that can recover it.
+
+### The data
+
+Children’s narratives from the Altman lab, collected with standardized picture-based instruments (MAIN) from monolingual and bilingual children, with and without language impairment, and rated for coherence by trained experts. On the reef side: coral imagery and expert-labelled descriptions written in a non-expert style, from the Eyal lab.
+
+### The model
+
+An open language model, fine-tuned with parameter-efficient methods (LoRA) on the expert-coded narratives. It maps a narrative onto a typed structure: referents, events, causal relations and internal states. Two outputs share that representation: a predicted coherence rating, and a repaired, structured version of the story with a confidence estimate. It is benchmarked against an off-the-shelf language model and a classical coding pipeline, so the value of the fine-tuning can be measured.
+
+### From stories to reefs
+
+Today the diagnosis system needs a structured description of the damage, such as “tissue loss, apical, Porites”. After the transfer, a diver can write “a big round coral, the top is white and looks peeled”, and the model turns it into the structured fields — coral type, damage type, location and severity — each with its own confidence, which then feed the diagnosis.
+
+### How success is measured
+
+The thresholds are fixed before any model is trained. On children’s narratives, the model’s coherence ratings must agree with expert raters at least as well as the raters agree with each other, and it must recover the story’s structure and causal links against expert coding. On reefs, experts check whether it identifies the intended species, condition or stressor, and whether its confidence is calibrated. The end-to-end test: a non-expert description and a photo produce ranked, evidence-backed causes that the lab’s experts accept as plausible.
+
+### Where it stands
+
+The grant was awarded in August 2026 for a twelve-month proof of concept, and the research work began in October 2026. First results are planned for early 2027.
+
+### Why it matters
+
+For child-language research and practice, an objective, AI-assisted measure of narrative coherence would ease a long-standing manual-coding bottleneck. For ecology, it opens a low-cost monitoring channel from divers, fishers and citizen scientists. Longer term, the same layer could turn any under-specified human input into a clear, structured request.
+
+## From perception to causation: AI for marine ecological monitoring
+
+SYSTEMATIC REVIEW · SCREENING
+
+A PRISMA 2020 systematic review mapping what AI for marine monitoring can do today, and where it stops short of ecological explanation.
+
+- Method: PRISMA 2020 systematic review
+
+### The question
+
+A useful synthesis must distinguish the task a model performs from the ecological conclusions its outputs can support. Detection, measurement, interpretation and causal explanation ask different things of a system, and the literature often blurs them.
+
+### Why it comes first
+
+The map of what the field cannot yet do frames the research questions and the evaluation criteria for the thesis.
+
+## Image analysis of reef settlement plates
+
+COLLABORATION · TECHNION · IN PROGRESS
+
+Segmentation, annotation and color analysis of ceramic plates with different roughness and porosity, photographed over time, to follow how reef communities settle on them.
+
+- With: A research group at the Technion
+
+### My part
+
+Building the segmentation and annotation workflow for the plate images and an interactive dashboard for the analysis.
+
+### A methodological lesson
+
+The plates were photographed across many separate sessions, so lighting and camera differences can look like biology. Part of the work is harmonizing exposure and color without discarding or masking any image, and recording exactly what was applied to each one.
+
+## Research with AI over an indexed knowledge base
+
+METHODS PAPER · IN PREPARATION
+
+A methods paper on doing research with AI on top of an indexed, version-controlled knowledge base: the workflow I use in my own research and teach in HIGH AI.
+
+- Tools: Obsidian, Git, Claude
+
+### What it documents
+
+How notes, sources and drafts are organized so that AI can work with them, and where AI-assisted writing breaks: for example, a citation that looks right but says something the source does not. The paper documents the checks that catch these errors, and measures how often the checks themselves are wrong.
+
+## Connected work
+
+- [Teaching agentic AI](https://yuvalkarako.github.io/work/teaching)
+- [Digital transformation in the IDF](https://yuvalkarako.github.io/work/public-service)</pre></body></html>

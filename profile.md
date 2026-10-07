@@ -1,52 +1,38 @@
 # Yuval Karako
 
-Yuval Karako is an M.Sc. researcher in Biotechnology at Bar-Ilan University, working at the intersection of artificial intelligence and marine ecology. He develops AI workflows that connect visual observation with scientific evidence to support the interpretation of ecological change. He also leads R&D and product work in the public-security sector and teaches in HIGH AI, focusing on agentic workflows, Second Brains, and personal knowledge bases.
+Yuval Karako is a graduate researcher in AI & Biotechnology (M.Sc.) at Bar-Ilan University's Marine Ecosystem Dynamics Lab, where he leads an AI research project that moves from detecting ecological change to explaining its causes. He is the AI research lead on a 2026 BIU AI Convergence seed grant with Prof. Carmit Altman and Dr. Gal Eyal. He teaches agentic AI and personal knowledge bases to senior faculty in HIGH AI, Bar-Ilan's flagship AI program for academics, and leads digital transformation in the IDF Education & Youth Corps.
+
+Earlier, he was a product manager in the IDF (2020–22), a member of the third cohort of Amiti's Nurture community for aspiring founders (2024–25), and co-founder of Kory Game Studios, which published two mobile games.
 
 ## בעברית
 
-יובל קרקו הוא חוקר לתואר שני בביוטכנולוגיה באוניברסיטת בר־אילן, הפועל במפגש שבין בינה מלאכותית לאקולוגיה ימית. מחקרו עוסק בפיתוח תהליכי עבודה המשלבים מידע חזותי וידע מדעי כדי לסייע בהבנת שינויים במערכות אקולוגיות. לצד המחקר הוא מוביל מו״פ ועבודת מוצר במגזר ביטחון הציבור, ומלמד בתוכנית HIGH AI על תהליכי עבודה סוכניים, מוחות שניים ובסיסי ידע אישיים.
+יובל קרקו הוא חוקר לתואר שני בביוטכנולוגיה במעבדה לדינמיקה של מערכות אקולוגיות ימיות באוניברסיטת בר־אילן, ומפתח מערכות בינה מלאכותית שעוברות מזיהוי של שינויים אקולוגיים להסבר הגורמים להם. הוא מוביל את מחקר ה־AI במענק BIU AI Convergence לשנת 2026, יחד עם פרופ׳ כרמית אלטמן וד״ר גל אייל. הוא חבר בסגל ההוראה של HIGH AI, תוכנית הדגל של בר־אילן להכשרת אקדמאים בכירים בבינה מלאכותית, ומוביל את הטרנספורמציה הדיגיטלית בחיל החינוך והנוער.
 
 ## Work
 
-### Ecological intelligence
+### Research
 
-Developing AI workflows that connect computer vision, ecological measurement, and scientific literature — to help interpret change in marine ecosystems.
+My M.Sc. thesis builds an AI system that goes past labeling underwater images. It measures each coral, follows it over time, and when it finds damage, proposes likely causes based on 845 scientific papers. Most existing tools stop at the labeling step. Around it: a BIU AI Convergence grant with Prof. Carmit Altman, a systematic review, and a collaboration with the Technion.
 
-M.Sc. research · Biotechnology · Bar-Ilan University
+M.Sc. Biotechnology · Marine Ecosystem Dynamics Lab (Dr. Gal Eyal) · Bar-Ilan University
 
-[Read more](https://yuvalkarako.github.io/work/ecological-intelligence)
-
-### Institutional R&D
-
-Leading R&D and product work in the public-security sector. Connecting the problem, the architecture, and the people needed to turn an idea into an operational system.
-
-R&D leadership · Product strategy · Software engineering
-
-[Read more](https://yuvalkarako.github.io/work/institutional-systems)
+[Read more](https://yuvalkarako.github.io/work/research)
 
 ### Teaching agentic AI
 
-Teaching researchers and senior academics to build personal knowledge bases and put agentic AI to work — connecting deep domain expertise with new ways of thinking and building.
+I’m on the teaching faculty of HIGH AI, Bar-Ilan University’s flagship program for training senior academics in agentic AI. I teach its unit on building a personal knowledge base to deans, department heads and research-institute directors.
 
 Teaching faculty · HIGH AI · Bar-Ilan University
 
-[Read more](https://yuvalkarako.github.io/work/high-ai)
+[Read more](https://yuvalkarako.github.io/work/teaching)
 
-### AI for marine monitoring
+### Digital transformation in the IDF
 
-Examining how AI is used in marine ecological monitoring, and the gap between visual detection and ecological interpretation.
+I head digital transformation in the IDF Education & Youth Corps. I find problems the Corps already has that technology can solve, define the product, and take it to a working demonstration, without adding budget or headcount.
 
-Marine ecology · Computer vision · Evidence synthesis
+Head of Digital Transformation · IDF Education & Youth Corps
 
-[Read more](https://yuvalkarako.github.io/work/marine-ai-review)
-
-### Human–AI knowledge systems
-
-Developing ways to turn notes, sources, and experience into a connected knowledge base that people and AI agents can work with together.
-
-Second Brains · Agentic workflows · Personal knowledge bases
-
-[Read more](https://yuvalkarako.github.io/work/knowledge-infrastructure)
+[Read more](https://yuvalkarako.github.io/work/public-service)
 
 ## Contact
 
@@ -54,4 +40,4 @@ Second Brains · Agentic workflows · Personal knowledge bases
 - LinkedIn: https://www.linkedin.com/in/yuvalkarako/
 - GitHub: https://github.com/yuvalKarako
 
-Updated 2026-09-07.
+Updated 2026-10-06.
