@@ -1,6 +1,6 @@
 {
   "../../../../../../../../Dev/Personal/Personal-website-V2/node_modules/vinext/dist/shims/image.js": {
-    "file": "_next/static/chunks/image-DwSp8jlx.js",
+    "file": "_next/static/chunks/image-BOk0EJlI.js",
     "name": "image",
     "src": "../../../../../../../../Dev/Personal/Personal-website-V2/node_modules/vinext/dist/shims/image.js",
     "isDynamicEntry": true,
@@ -11,7 +11,7 @@
     ]
   },
   "../../../../../../../../Dev/Personal/Personal-website-V2/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "_next/static/chunks/app-route-prefetch-policy-B5l_R8Hc.js",
+    "file": "_next/static/chunks/app-route-prefetch-policy-Ys8Qa6hP.js",
     "name": "app-route-prefetch-policy",
     "src": "../../../../../../../../Dev/Personal/Personal-website-V2/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -20,7 +20,7 @@
     ]
   },
   "../../../../../../../../Dev/Personal/Personal-website-V2/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-Ba1N8gYj.js",
+    "file": "_next/static/chunks/layout-segment-context-Cv6EW9Lm.js",
     "name": "layout-segment-context",
     "src": "../../../../../../../../Dev/Personal/Personal-website-V2/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -31,7 +31,7 @@
     ]
   },
   "../../../../../../../../Dev/Personal/Personal-website-V2/node_modules/vinext/dist/shims/streamed-icons.js": {
-    "file": "_next/static/chunks/streamed-icons-Cs-m6aYg.js",
+    "file": "_next/static/chunks/streamed-icons-BbokXyyW.js",
     "name": "streamed-icons",
     "src": "../../../../../../../../Dev/Personal/Personal-website-V2/node_modules/vinext/dist/shims/streamed-icons.js",
     "isDynamicEntry": true,
@@ -61,17 +61,8 @@
       "_framework-D_rUT4EX.js"
     ]
   },
-  "components/print-profile.tsx": {
-    "file": "_next/static/chunks/print-profile-C1JodFSr.js",
-    "name": "print-profile",
-    "src": "components/print-profile.tsx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_framework-D_rUT4EX.js"
-    ]
-  },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-CsS0oDbv.js",
+    "file": "_next/static/chunks/index-dLBULEdU.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -85,7 +76,6 @@
       "../../../../../../../../Dev/Personal/Personal-website-V2/node_modules/vinext/dist/shims/layout-segment-context.js",
       "../../../../../../../../Dev/Personal/Personal-website-V2/node_modules/vinext/dist/shims/image.js",
       "../../../../../../../../Dev/Personal/Personal-website-V2/node_modules/vinext/dist/shims/streamed-icons.js",
-      "components/print-profile.tsx",
       "components/open-from-hash.tsx"
     ]
   }

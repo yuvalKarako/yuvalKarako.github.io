@@ -4,7 +4,7 @@ Yuval Karako is a graduate researcher in AI & Biotechnology (M.Sc.) at Bar-Ilan 
 
 ## Profile
 
-- [Professional profile](https://yuvalkarako.github.io/profile): biography, current work and contact.
+- [Home](https://yuvalkarako.github.io/): research, teaching, public service and contact.
 - [Markdown profile](https://yuvalkarako.github.io/profile.md)
 
 ## Work
