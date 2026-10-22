@@ -11,7 +11,7 @@ Yuval Karako is a graduate researcher in AI & Biotechnology (M.Sc.) at Bar-Ilan 
 
 - [Research](https://yuvalkarako.github.io/work/research/text): My M.Sc. thesis builds an AI system that goes past labeling underwater images. It measures each coral, follows it over time, and when it finds damage, proposes likely causes based on 845 scientific papers. Most existing tools stop at the labeling step. Around it: a BIU AI Convergence grant with Prof. Carmit Altman, a systematic review, and a collaboration with the Technion.
 - [Teaching agentic AI](https://yuvalkarako.github.io/work/teaching/text): I’m on the teaching faculty of HIGH AI, Bar-Ilan University’s flagship program for training senior academics in agentic AI. I teach its unit on building a personal knowledge base to deans, department heads and research-institute directors.
-- [Digital transformation in the IDF](https://yuvalkarako.github.io/work/public-service/text): I head digital transformation in the IDF Education & Youth Corps. I find problems the Corps already has that technology can solve, define the product, and take it to a working demonstration, without adding budget or headcount.
+- [Digital transformation in the IDF](https://yuvalkarako.github.io/work/public-service/text): I head digital transformation in the IDF Education & Youth Corps, with end-to-end ownership of its software systems and digitization projects: from architecture and specification, through development and deployment, to the teams that build and maintain them.
 
 ## Explore
 

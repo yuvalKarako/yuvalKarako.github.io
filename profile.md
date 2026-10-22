@@ -28,7 +28,7 @@ Teaching faculty · HIGH AI · Bar-Ilan University
 
 ### Digital transformation in the IDF
 
-I head digital transformation in the IDF Education & Youth Corps. I find problems the Corps already has that technology can solve, define the product, and take it to a working demonstration, without adding budget or headcount.
+I head digital transformation in the IDF Education & Youth Corps, with end-to-end ownership of its software systems and digitization projects: from architecture and specification, through development and deployment, to the teams that build and maintain them.
 
 Head of Digital Transformation · IDF Education & Youth Corps
 
