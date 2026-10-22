@@ -13,9 +13,17 @@ Yuval Karako is a graduate researcher in AI & Biotechnology (M.Sc.) at Bar-Ilan 
 - [Teaching agentic AI](https://yuvalkarako.github.io/work/teaching/text): I’m on the teaching faculty of HIGH AI, Bar-Ilan University’s flagship program for training senior academics in agentic AI. I teach its unit on building a personal knowledge base to deans, department heads and research-institute directors.
 - [Digital transformation in the IDF](https://yuvalkarako.github.io/work/public-service/text): I head digital transformation in the IDF Education & Youth Corps, with end-to-end ownership of its software systems and digitization projects: from architecture and specification, through development and deployment, to the teams that build and maintain them.
 
+## Research lines
+
+- [Coherence to meaning: recovering structured meaning from imprecise descriptions](https://yuvalkarako.github.io/work/research#coherence-to-meaning) - BIU AI CONVERGENCE SEED GRANT · 2026–27 · AWARDED. People describe what they see in imprecise words. This project teaches a model to recover the structure behind those words, first in children’s narratives, then in divers’ reports of reef damage.
+- [From detection to diagnosis: AI for coral reef decline](https://yuvalkarako.github.io/work/research#etiology-system) - M.SC. THESIS. An AI system that measures every coral in underwater images, follows each colony over time, and proposes likely causes when it finds damage.
+- [From perception to causation: AI for marine ecological monitoring](https://yuvalkarako.github.io/work/research#systematic-review) - SYSTEMATIC REVIEW. A PRISMA 2020 systematic review mapping what AI for marine monitoring can do today, and where it stops short of ecological explanation.
+- [Image analysis of reef settlement plates](https://yuvalkarako.github.io/work/research#settlement-plates) - COLLABORATION · TECHNION. Segmentation, annotation and color analysis of ceramic plates with different roughness and porosity, photographed over time, to follow how reef communities settle on them.
+- [Research with AI over an indexed knowledge base](https://yuvalkarako.github.io/work/research#methods-paper) - METHODS PAPER. A methods paper on doing research with AI on top of an indexed, version-controlled knowledge base: the workflow I use in my own research and teach in HIGH AI.
+
 ## Explore
 
 - [LinkedIn](https://www.linkedin.com/in/yuvalkarako/)
 - [GitHub](https://github.com/yuvalKarako)
 
-Last updated: 2026-10-06.
+Last updated: 2026-10-22.

@@ -4,10 +4,6 @@ Yuval Karako is a graduate researcher in AI & Biotechnology (M.Sc.) at Bar-Ilan 
 
 Earlier, he was a product manager in the IDF (2020–22), a member of the third cohort of Amiti's Nurture community for aspiring founders (2024–25), and co-founder of Kory Game Studios, which published two mobile games.
 
-## בעברית
-
-יובל קרקו הוא חוקר לתואר שני בביוטכנולוגיה במעבדה לדינמיקה של מערכות אקולוגיות ימיות באוניברסיטת בר־אילן, ומפתח מערכות בינה מלאכותית שעוברות מזיהוי של שינויים אקולוגיים להסבר הגורמים להם. הוא מוביל את מחקר ה־AI במענק BIU AI Convergence לשנת 2026, יחד עם פרופ׳ כרמית אלטמן וד״ר גל אייל. הוא חבר בסגל ההוראה של HIGH AI, תוכנית הדגל של בר־אילן להכשרת אקדמאים בכירים בבינה מלאכותית, ומוביל את הטרנספורמציה הדיגיטלית בחיל החינוך והנוער.
-
 ## Work
 
 ### Research
@@ -15,6 +11,14 @@ Earlier, he was a product manager in the IDF (2020–22), a member of the third 
 My M.Sc. thesis builds an AI system that goes past labeling underwater images. It measures each coral, follows it over time, and when it finds damage, proposes likely causes based on 845 scientific papers. Most existing tools stop at the labeling step. Around it: a BIU AI Convergence grant with Prof. Carmit Altman, a systematic review, and a collaboration with the Technion.
 
 M.Sc. Biotechnology · Marine Ecosystem Dynamics Lab (Dr. Gal Eyal) · Bar-Ilan University
+
+Research lines:
+
+- [Coherence to meaning: recovering structured meaning from imprecise descriptions](https://yuvalkarako.github.io/work/research#coherence-to-meaning) - BIU AI CONVERGENCE SEED GRANT · 2026–27 · AWARDED. People describe what they see in imprecise words. This project teaches a model to recover the structure behind those words, first in children’s narratives, then in divers’ reports of reef damage.
+- [From detection to diagnosis: AI for coral reef decline](https://yuvalkarako.github.io/work/research#etiology-system) - M.SC. THESIS. An AI system that measures every coral in underwater images, follows each colony over time, and proposes likely causes when it finds damage.
+- [From perception to causation: AI for marine ecological monitoring](https://yuvalkarako.github.io/work/research#systematic-review) - SYSTEMATIC REVIEW. A PRISMA 2020 systematic review mapping what AI for marine monitoring can do today, and where it stops short of ecological explanation.
+- [Image analysis of reef settlement plates](https://yuvalkarako.github.io/work/research#settlement-plates) - COLLABORATION · TECHNION. Segmentation, annotation and color analysis of ceramic plates with different roughness and porosity, photographed over time, to follow how reef communities settle on them.
+- [Research with AI over an indexed knowledge base](https://yuvalkarako.github.io/work/research#methods-paper) - METHODS PAPER. A methods paper on doing research with AI on top of an indexed, version-controlled knowledge base: the workflow I use in my own research and teach in HIGH AI.
 
 [Read more](https://yuvalkarako.github.io/work/research)
 
@@ -40,4 +44,4 @@ Head of Digital Transformation · IDF Education & Youth Corps
 - LinkedIn: https://www.linkedin.com/in/yuvalkarako/
 - GitHub: https://github.com/yuvalKarako
 
-Updated 2026-10-06.
+Updated 2026-10-22.
